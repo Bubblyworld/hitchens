@@ -1,5 +1,5 @@
 .post {
-  background: white;
+  background: $inset-background-color;
   margin: 2em auto;
   max-width: 60rem;
   padding: 2em 0;
@@ -62,4 +62,9 @@
   padding: 1em;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.circle-profile {
+  margin-top: -4em;
+  border-radius: 50%;
 }

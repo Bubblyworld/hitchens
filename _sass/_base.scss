@@ -119,15 +119,15 @@ figcaption {
 }
 
 .content-title {
-  font-size: 2em;
-  margin-bottom: 2em;
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
   text-align: center;
 }
 
 .post-date {
   color: $muted-text-color;
   display: block;
-  font-size: .825em;
+  font-size: .75em;
   white-space: nowrap;
   text-transform: uppercase;
   .post-link & {
